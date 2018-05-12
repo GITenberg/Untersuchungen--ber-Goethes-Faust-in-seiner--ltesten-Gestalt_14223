@@ -1,0 +1,30 @@
+_repo: Untersuchungen--ber-Goethes-Faust-in-seiner--ltesten-Gestalt_14223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collin, J. (Josef)
+    aliases:
+    - Collin, Joseph
+    - Collin, Josef
+    birthdate: 1864
+    gutenberg_agent_id: '5416'
+    url: http://www.gutenberg.org/2009/agents/5416
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14223'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832. Faust'
+- !lcc 'PT'
+- !lcsh 'Thesis (Ph. D.)'
+title: Untersuchungen über Goethes Faust in seiner ältesten Gestalt
+url: http://www.gutenberg.org/ebooks/14223
